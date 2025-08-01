@@ -5,7 +5,7 @@ A complete full-stack game development project featuring a Flappy Bird clone bui
 
 ## Screenshots
 
-![Game Dashboard](Screenshot 2025-08-01 at 6.49.14 AM.png)
+![Game Dashboard](game-screenshot.png)
 
 *Game Demo*
 
