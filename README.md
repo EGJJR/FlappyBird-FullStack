@@ -3,7 +3,7 @@
 ## Project Overview
 A complete full-stack game development project featuring a Flappy Bird clone built in Unity with a comprehensive web backend for score tracking, user management, and real-time leaderboards. This project demonstrates proficiency in Unity game development, server-side programming with PHP & MySQL, and client-side web technologies.
 
-## Screenshots
+## Screenshot of Game Demo
 
 ![Game Dashboard](game-screenshot.png)
 
@@ -15,7 +15,7 @@ A complete full-stack game development project featuring a Flappy Bird clone bui
 - Complete Flappy Bird gameplay with bird physics and pipe obstacles
 - Username system and real-time score tracking
 - Automatic score upload to server via HTTP POST requests
-- Responsive controls (keyboard/mouse) with smooth 60 FPS performance
+- Responsive controls (keyboard/mouse) with smooth 24 FPS performance
 
 ### Web Dashboard
 - Secure user authentication (registration/login)
@@ -43,7 +43,7 @@ A complete full-stack game development project featuring a Flappy Bird clone bui
 ## Technical Stack
 
 ### Frontend
-- **Unity 2021.3+**: Game engine and C# scripting
+- **Unity 2021.3+**: Game engine
 - **HTML5/CSS3/JavaScript**: Web dashboard with responsive design
 - **AJAX**: Dynamic content loading
 
